@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Days4Halving",
+    "slug": "Days4Halving",
+    "version": "8.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "rgba(61, 61, 61, 1)"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.ryancarlos11.DaysforHalvingg"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "rgba(61, 61, 61, 1)"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8d3ba05b-ce60-44d2-bb77-d7f5290acac6"
+      }
+    }
+  }
+}
